@@ -10,4 +10,4 @@ Kd 1 1 1
 d 1
 Ns 0
 illum 1
-map_Kd kimnagyeong_u0_v0_diffuse.jpeg
+# The OBJ includes vertex colors; no separate diffuse texture was supplied.
